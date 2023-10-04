@@ -14,8 +14,7 @@
  
 - 🌱 I’m currently learning Data Science and Management at Toulouse Business School
 
-- 📫 How to reach me ...
-- linkedin.com/in/adam-green-2628b71b7
+- 📫 Reach me at linkedin.com/in/adam-green-2628b71b7
 
 <!---
 AdammGreen/AdammGreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
