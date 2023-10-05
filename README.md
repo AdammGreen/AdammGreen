@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @AdammGreen
   
 - 👀 I’m interested in:
-  **Machine Learning and Coding:** 
-  **Data Visualization:** 
-  **Problem Identification and Solving:**
-  **Cybersecurity Advocate:** 
-  **Technology Enthusiast:** 
-  **Data Science:** 
-  **Coding:**
+  **Machine Learning,** 
+  **Data Visualization,** 
+  **Problem Identification and Solving,**
+  **Cybersecurity, ** 
+  **Technology Enthusiast,** 
+  **Data Science,** 
+  **Coding**
 
 - 🌐 Coding in:
   Java, JavaScript, JavaFX, Python, R, HTML, CSS and SQL
