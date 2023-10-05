@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdammGreen
+- 👋 Hi, I’m @AdammGreen from South Africa
   
 - 👀 I’m interested in:
   **Machine Learning,** 
