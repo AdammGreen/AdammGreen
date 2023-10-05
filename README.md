@@ -14,8 +14,6 @@
  
 - 🌱 I’m currently learning Data Science and Management at Toulouse Business School
 
-- Trying to find a job in Cologne / North Rhein Westphalia (Germany)
-
 - 📫 Reach me at linkedin.com/in/adamgreenn
 
 <!---
