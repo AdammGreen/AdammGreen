@@ -4,7 +4,7 @@
   **Machine Learning,** 
   **Data Visualization,** 
   **Problem Identification and Solving,**
-  **Cybersecurity, ** 
+  **Cybersecurity,** 
   **Technology Enthusiast,** 
   **Data Science,** 
   **Coding**
