@@ -6,7 +6,7 @@
   **Problem Identification and Solving:**
   **Cybersecurity Advocate:** 
   **Technology Enthusiast:** 
-  **Data Science Aficionado:** 
+  **Data Science:** 
   **Coding:**
 
 - 🌐 Coding in:
