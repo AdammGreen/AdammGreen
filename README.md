@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdammGreen from South Africa
+- 👋 Hi, I’m @AdammGreen!
   
 - 👀 I’m interested in:
   **Machine Learning,** 
@@ -12,7 +12,9 @@
 - 🌐 Coding in:
   Java, JavaScript, JavaFX, Python, R, Spark, HTML, CSS, SQL and NoSQL
  
-- 🌱 I’m currently learning Data Science and Management at Toulouse Business School
+- 🌱 I’m previously learning Data Science and A.I. Management at Toulouse Business School and before that I studied Information Systems and Logistics at Stellenbosch University.
+  
+- Originally from South Africa and am currently living in Germany in Cologne.
 
 - 📫 Reach me at linkedin.com/in/adamgreenn
 
