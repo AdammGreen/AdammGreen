@@ -10,7 +10,7 @@
   **Coding**
 
 - 🌐 Coding in:
-  Java, JavaScript, JavaFX, Python, R, HTML, CSS and SQL
+  Java, JavaScript, JavaFX, Python, R, Spark, HTML, CSS, SQL and NoSQL
  
 - 🌱 I’m currently learning Data Science and Management at Toulouse Business School
 
