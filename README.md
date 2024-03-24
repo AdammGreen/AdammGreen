@@ -14,7 +14,7 @@
 - 🌐 Coding in:
   Java, JavaScript, JavaFX, Python, R, Spark, HTML, CSS, SQL and NoSQL
  
-- 🇩🇪 Originally from South Africa and am currently living in Germany. 
+- 🇩🇪 Originally from South Africa and currently living in Germany. 
 
 - 📫 Reach me at https://linkedin.com/in/adamgreenn
 
